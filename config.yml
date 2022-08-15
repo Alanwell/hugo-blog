@@ -100,15 +100,15 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
+    author: guan
+    author_title: A developer
     author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
+    location: China
     follow: https://github.com/xiaoheiAh
     # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
+        github: https://github.com/Alanwell
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
@@ -129,7 +129,7 @@ params:
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
   share:
     enable: true # 是否启用分享
-    sites: weibo,qq,wechat,facebook,twitter # PC端显示的分享图标
+    sites: weibo,qq,wechat # PC端显示的分享图标
     mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
 
   # Comment
