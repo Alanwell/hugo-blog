@@ -30,6 +30,12 @@ macos 版本：使用 brew 安装
 brew install hugo
 ```
 
+linux 版本：使用 snap 安装
+
+```shell
+snap install hugo
+```
+
 
 #### 启动说明
 
