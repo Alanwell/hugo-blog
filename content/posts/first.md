@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2022-08-15T22:00:11+08:00
-draft: true
+draft: false
 ---
 
 # 一、Hugo介绍
