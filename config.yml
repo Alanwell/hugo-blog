@@ -35,37 +35,37 @@ menu:
   main:
     - identifier: home
       name: Home
-      title: Home
+      title: 主页
       url: /
       weight: 1
 
     - identifier: archives
       name: Archives
-      title: Archives
+      title: 归档
       url: /posts/
       weight: 2
 
     - identifier: categories
       name: Categories
-      title: Categories
+      title: 分类
       url: /categories/
       weight: 3
 
     - identifier: tags
       name: Tags
-      title: Tags
+      title: 标签
       url: /tags/
       weight: 4
 
-    - identifier: about
-      name: About
-      title: About
-      url: /about/
-      weight: 5
+    # - identifier: about
+    #   name: About
+    #   title: 关于
+    #   url: /about/
+    #   weight: 5
 
 
 params:
-  since: 2017
+  since: 2018
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: true
   copyright_link: http://creativecommons.org/licenses/by/4.0/deed.zh
@@ -104,7 +104,7 @@ params:
     author_title: A developer
     author_description: Good Good Study, Day Day Up~
     location: China
-    follow: https://github.com/xiaoheiAh
+    follow: https://github.com/Alanwell
     # Social Links
     social:
       links:
@@ -199,6 +199,6 @@ params:
     - board
     - tag_cloud
     - category
-    - tag
+    # - tag
     - recent_posts
 
