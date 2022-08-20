@@ -1,4 +1,4 @@
-baseURL: window.location.origin
+baseURL: https://guanduo-blog.netlify.app/
 theme: pure
 title: Hugo Blog
 copyright: CC BY 4.0 CN
