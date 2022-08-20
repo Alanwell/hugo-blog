@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pure theme for Hugo</title>
-    <link>https://guanduo-blog.netlify.app/posts/</link>
-    <description>Recent content in Posts on Pure theme for Hugo</description>
+    <title>Posts on My Blog</title>
+    <link>window.location.origin/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
     <lastBuildDate>Mon, 15 Aug 2022 22:00:11 +0800</lastBuildDate>
     
-        <atom:link href="https://guanduo-blog.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="window.location.origin/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo 介绍</title>
-      <link>https://guanduo-blog.netlify.app/2022/08/first/</link>
+      <link>window.location.origin/2022/08/hugo/</link>
       <pubDate>Mon, 15 Aug 2022 22:00:11 +0800</pubDate>
       
-      <guid>https://guanduo-blog.netlify.app/2022/08/first/</guid>
+      <guid>window.location.origin/2022/08/hugo/</guid>
       <description>Hugo 是一个基于Go 语言的框架，可以快速方便的创建自己的博客。 安装说明 windows 版本 首先安装 choco 包管理器，需要在管理员权限下运行 cmd powershell -NoProfile -ExecutionPolicy unrestricted -Command &amp;quot;iex ((new-object net.webclient).DownloadString(&#39;https://chocolatey.org/install.ps1&#39;))&amp;quot; # 设置环</description>
     </item>
     

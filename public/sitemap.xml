@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guanduo-blog.netlify.app/2022/08/first/</loc>
+    <loc>window.location.origin/2022/08/hugo/</loc>
     <lastmod>2022-08-15T22:00:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://guanduo-blog.netlify.app/posts/</loc>
+    <loc>window.location.origin/</loc>
     <lastmod>2022-08-15T22:00:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://guanduo-blog.netlify.app/</loc>
+    <loc>window.location.origin/posts/</loc>
     <lastmod>2022-08-15T22:00:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://guanduo-blog.netlify.app/categories/</loc>
+    <loc>window.location.origin/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://guanduo-blog.netlify.app/series/</loc>
+    <loc>window.location.origin/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://guanduo-blog.netlify.app/tags/</loc>
+    <loc>window.location.origin/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
