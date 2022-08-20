@@ -6,7 +6,7 @@ draft: false
 
 > Hugo 是一个基于Go 语言的框架，可以快速方便的创建自己的博客。
 
-### 安装说明
+#### 安装说明
 
 windows 版本
 首先安装 choco 包管理器，需要在管理员权限下运行 cmd
@@ -44,7 +44,7 @@ snap install hugo
 hugo server
 ```
 
-### 发布说明
+#### 发布说明
 
 ```shell
 hugo
