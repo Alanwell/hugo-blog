@@ -1,10 +1,8 @@
 ---
-title: "Test"
+title: "Hugo 介绍"
 date: 2022-08-15T22:00:11+08:00
 draft: false
 ---
-
-# Hugo 介绍
 
 > Hugo 是一个基于Go 语言的框架，可以快速方便的创建自己的博客。
 
