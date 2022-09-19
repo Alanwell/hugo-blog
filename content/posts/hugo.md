@@ -40,14 +40,19 @@ snap install hugo
 ```
 
 
-#### 启动说明
+#### 启动命令
 
 ```shell
 hugo server
 ```
 
-#### 发布说明
+#### 发布命令
 
 ```shell
 hugo
+```
+
+#### 发布新文章
+```shell
+hugo new posts/test.md
 ```
